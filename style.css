@@ -69,7 +69,7 @@ margin: 0 auto;
 #heading-of-2nd-div{
     text-align: center;
 }
-#year-color{
+.year-color{
     color: rgb(230, 37, 3);
 }
 .about-mission{
@@ -130,4 +130,20 @@ margin: 0 auto;
     display: inline-flex;
     top: 0;
 
+}
+
+#footer-add{
+    background-color: black;
+    color:rgb(132, 223, 223);
+    padding: 25px;
+    text-align: center;
+}
+
+#footer-font{
+    font-family: forte;
+}
+
+#end-line{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
