@@ -132,6 +132,34 @@ margin: 0 auto;
 
 }
 
+.parant-fourth{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: right;
+    padding-top: 50px;
+}
+.para-global-font{
+    font-size: 125%;
+    text-align: auto;
+
+}
+
+.more-info-btn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.more-info-btn:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+} 
+
 #footer-add{
     background-color: black;
     color:rgb(132, 223, 223);
